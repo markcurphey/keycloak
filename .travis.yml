@@ -25,7 +25,4 @@ jdk:
 
 install: true
 
-script: 
-  - ./travis-run-tests.sh $TESTS
-
-sudo: false
+sudo: true
