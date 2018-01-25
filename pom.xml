@@ -26,7 +26,6 @@
         <artifactId>jboss-parent</artifactId>
         <version>19</version>
     </parent>
-
     <name>Keycloak</name>
     <description>
         Keycloak SSO
