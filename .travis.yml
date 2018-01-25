@@ -16,6 +16,9 @@ env:
     - TESTS=server-group4
     - TESTS=old
     - TESTS=crossdc
+    
+    addons:
+  srcclr: true
 
 jdk:
   - oraclejdk8
